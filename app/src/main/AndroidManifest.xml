@@ -13,10 +13,10 @@
         android:theme="@style/Theme.AppZegarraJosue"
         tools:targetApi="31">
         <activity
-            android:name=".ListadoActivity"
+            android:name=".FormActivity"
             android:exported="false" />
         <activity
-            android:name=".FormularioActivity"
+            android:name=".ListadoActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

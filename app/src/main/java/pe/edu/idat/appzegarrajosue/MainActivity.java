@@ -26,10 +26,10 @@ public class MainActivity extends AppCompatActivity
     public void onClick(View v) {
         if(v.getId() == R.id.btnformulario){
             startActivity(new Intent(MainActivity.this,
-                    FormularioActivity.class));
+                    ListadoActivity.class));
         }else if(v.getId() == R.id.btnlistado){
             startActivity(new Intent(MainActivity.this,
-                    ListadoActivity.class));
+                    FormActivity.class));
         }
     }
 }
