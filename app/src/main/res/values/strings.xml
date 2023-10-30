@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">AppZegarraJosue</string>
+    <string name="valregistro">REGISTRO</string>
+    <string name="valFormulario">FORMULARIO</string>
+    <string name="valListado">LISTADO</string>
+    <string name="valformcovid">CUESTIONARIO COVID-19</string>
+    <string name="sintomas">1.Marea tus sintomas</string>
+    <string name="fiebre">¿Tienes fiebre mayor a 37 grados?</string>
+    <string name="val1">Disminución del gusto o del olfato</string>
+    <string name="valtos">Tos\n</string>
+    <string name="Dolorg">Dolor de garganta</string>
+    <string name="Congest">Congestión nasal</string>
+    <string name="f">Fiebre</string>
+    <string name="n">Ninguno</string>
+    <string name="f2">2.¿Tienes fiebre mayor a 37 grados?</string>
+    <string name="v3">3.¿Vives solo en casa?</string>
+    <string name="SI">SI</string>
+    <string name="NO">NO\t</string>
+    <string name="v4">4.¿Vives con un adulto mayor en casa?</string>
+    <string name="v5">5.¿Cuentas con los siguientes servicios en casa?</string>
+    <string name="L">Luz</string>
+    <string name="a">Agua</string>
+    <string name="Internet">Internet</string>
+    <string name="Cable">Cable</string>
+    <string name="Resolver">Resolver</string>
 </resources>
